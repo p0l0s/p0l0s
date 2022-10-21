@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UX/UI Design
 - 💞️ I’m looking to collaborate on any new projects needing a front-end developer, or an opportunity to hone my UX/UI Design skills.
 - 📫 How to reach me;
-- You can email me at sosa.jenna.y@gmail.com
+- You can email me at p0l0s.webdev@gmail.com
 - Or text/call at (717) 743-4508!
 
 <!---
